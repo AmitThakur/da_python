@@ -1,4 +1,4 @@
-# Data Analysys Notebook
+# Data Analysis Notebook
 
 This is my personal notebook to brush-up my skills on data analysis using python tools
 
